@@ -1,0 +1,6 @@
+			  --Access Specifiers--
+			  
+01. public:-  Accessed from outside class, outside the programe, outside the package.
+02. private:- Only accessable for inside class.
+03. protected:- same class, ouside class, same package, other package also but some limits are there. 
+04. default:- Accessed from outside class, same package, but not outside the package.
