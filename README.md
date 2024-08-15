@@ -7,7 +7,6 @@ Welcome to the OOP and DSA in Java repository! Here I will practice the concepts
 - [Introduction](#Introduction)
 - [OOP Concepts](#oop-concepts)
 - [DSA Topics](#dsa-topics)
-- [License](#license)
 
 ## Introduction 
 
@@ -37,7 +36,3 @@ In this directory, you'll find examples related to the following topics:
 - **Searching Algorithms**: Linear search, binary search, etc.
 - **Dynamic Programming**: Problems like Fibonacci sequence, knapsack problem, etc.
 - **Recursion**: Basic and advanced recursion problems.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
