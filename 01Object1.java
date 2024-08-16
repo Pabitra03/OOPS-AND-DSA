@@ -8,7 +8,7 @@ void fun2(){
 System.out.println("fun2");
 }
 }
-class Object1{
+class 01Object1{
 public static void main(String [] args){
 Men obj = new Men();   //object
 obj.fun1();

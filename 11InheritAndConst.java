@@ -28,7 +28,7 @@ class Tablet extends Phone{
 		System.out.println("button:- " + button);
 	}
 }
-class InheritAndConst{
+class 11InheritAndConst{
 	public static void main(String [] args){
 			Tablet a1 = new Tablet(7,6);
 			a1.display1();

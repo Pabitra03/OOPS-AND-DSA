@@ -7,7 +7,7 @@ System.out.println("AREA 2");
 }
 
 }
-class Example{
+class 04Example{
 static void game1(){
 System.out.println("Java is best language in the world");
 }

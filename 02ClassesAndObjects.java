@@ -11,7 +11,7 @@ class Nokia{
 		System.out.println(cam);
 	}
 }
-class ClassesAndObjects{
+class 02ClassesAndObjects{
 	public static void main(String [] args){
 		Nokia a1= new Nokia();
 		a1.display();

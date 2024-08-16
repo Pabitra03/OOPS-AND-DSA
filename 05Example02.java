@@ -1,4 +1,5 @@
-class Example02{
+// Wrapper class.
+class 05Example02{
 	public static void main(String [] args){
 	int x = Integer.parseInt("123");
 	//Integer x1 = Integer.valueOf("10110",2);   // It will convert binary to decimal
