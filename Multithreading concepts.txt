@@ -1,0 +1,24 @@
+// Thread States , Thread Priority Synchronization.
+
+// Thread States:-
+  */ 01. New thread:- Here You can call start() and stop() function.
+            If you call other than these function then you will get IllegalThreadException error.
+			
+	 02. Runnable:- When the thread method is invoked on a new Thread it gets to the runnable state by calling the run method.
+	 
+	 03. Not Runnable.
+	 04. Dead Runnable. */
+
+// Switching from not runnable to runnable state.
+	// resume()
+	// notify() , notifyAll()
+
+// Dead state swicthing.
+	// when run method will call stop method and it will never run again.
+
+// Thread Priority.
+	// setPriority() , getPriority()
+	// predefined static variable MIN_PRIORITY(0) lowest Priority.
+	// NORM_PRIORITY(5) Default priority.
+	//MAN_PRIORITY(10) Highest Priority.
+	
