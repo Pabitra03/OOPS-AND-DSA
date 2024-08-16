@@ -1,3 +1,4 @@
+//The static keyword is a non-access modifier used for methods and attributes. Static methods/attributes can be accessed without creating an object of a class.
 class A{
 private int x;
 private static int y;
