@@ -14,7 +14,7 @@ class Demo2 extends Demo{
 		
 	}
 }
-class 13Abstract{
+class Abstract13{
 	public static void main(String [] args){
 		Demo2 a1 = new Demo2();
 		a1.f3();

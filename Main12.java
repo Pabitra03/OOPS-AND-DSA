@@ -25,7 +25,7 @@ class Java extends New{
 		System.out.println("Value of parent y:- " + super.y);
 	}
 }
-class 12Main2{
+class Main12{
 	public static void main(String [] args){
 		Java a1 = new Java();
 		a1.f2(4,5);

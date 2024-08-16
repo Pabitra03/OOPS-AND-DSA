@@ -17,7 +17,7 @@ interface i2 extends i1{
 	int y=2;
 	void f3();
 }
-class c1 14implements i2{
+class c1 implements i2{
 	// Here i am overriding abstract function.
 	
 	public void f1(){
@@ -27,7 +27,7 @@ class c1 14implements i2{
 		System.out.println("Java");
 	}
 }
-class Interface{
+class Interface14{
 	public static void main(String [] args){
 		//il.f2();
 		c1 a1 = new c1();

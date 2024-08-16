@@ -1,5 +1,5 @@
 package package1;
-public class 08Folder{
+public class Folder08{
 	private int x;
 	private int y;
 	public void setData(int p , int q){

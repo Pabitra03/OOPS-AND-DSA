@@ -12,7 +12,7 @@ void fun3(){
 	y=33;
 }
 }
-class 03StaticMembers{
+class StaticMembers03{
 	public static void main(String [] args)
 	{
 		A obj = new A();

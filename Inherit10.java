@@ -19,7 +19,7 @@ class B extends A{
 	}
 	
 }
-class 10Inherit{
+class Inherit10{
 	public static void main(String [] args){
 		B a1 = new B();
 		a1.f1();

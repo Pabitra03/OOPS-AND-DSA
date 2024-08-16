@@ -15,7 +15,7 @@ class Demo{
 		System.out.println("Value is Y :- " + y);
 	}
 }
-class 07Const{
+class Const07{
 	public static void main(String [] args){
 		Demo a1 = new Demo(7,10);
 		Demo a2 = new Demo(4,78)
