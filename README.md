@@ -32,6 +32,4 @@ In this directory, you'll find examples for the following concepts:
 - **Multithreading and its concepts**
 
   
-<!-- ## DSA Topics
-
-In this directory, you'll find examples related to the following topics: -->
+<!-- ## DSA Topics -->
