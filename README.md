@@ -30,6 +30,7 @@ In this directory, you'll find examples for the following concepts:
 - **Abstraction**
 - **Interface in Java**
 - **Multithreading and its concepts**
+- **File Handling**
 
   
 <!-- ## DSA Topics -->
