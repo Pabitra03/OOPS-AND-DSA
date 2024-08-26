@@ -74,7 +74,6 @@ void setComponents(){
 	b3.setBackground(Color.YELLOW);
 	b3.setForeground(Color.RED);
 	setLayout(null);
-
 	add(l1);
 	add(l2);
 	add(l3);
@@ -84,7 +83,6 @@ void setComponents(){
 	add(b1);
 	add(b2);
 	add(b3);
-
 	l1.setBounds(200,50,800,30);
 	l2.setBounds(100,200,110,30);
 	l3.setBounds(100,350,110,30);
@@ -94,7 +92,6 @@ void setComponents(){
 	b1.setBounds(200,450,100,30);
 	b2.setBounds(350,450,100,30);
 	b3.setBounds(450,550,100,30);
-	
 	b1.addActionListener(new Log());
 	b2.addActionListener(new Clear());
 	b3.addActionListener(new Add());
@@ -113,10 +110,12 @@ class Log implements ActionListener{
 		String s1=t1.getText();
 		String s2=t2.getText();
 		if(s1.equals("coading") && s2.equals("1234")){
-			l4.setText("Login Successful...");
+			JOptionPane.showMessageDialog(null,"Login Successful...");
+			//l4.setText("Login Successful...");
 		}
 		else{
-			l4.setText("Login Unsuccessful...");
+			JOptionPane.showMessageDialog(null,"Login Unsuccessful...");
+			//l4.setText("Login Unsuccessful...");
 		}
 	}
 }
