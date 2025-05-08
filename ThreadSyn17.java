@@ -71,29 +71,29 @@ class ThreadSyn17{
 }
 
 
-Output:- (When not using Synchronized block)
+// Output:- (When not using Synchronized block)
 	
-	E:\Practice>javac ThreadSyn17.java
+// 	E:\Practice>javac ThreadSyn17.java
 
-	E:\Practice>java ThreadSyn17
-	Enter amount to withdraw for Ram :-
-	Enter amount to withdraw for Shyam :-
-	4000
-	3000
-	InSufficent Balance
-	Ram Transaction successfully
-	Ram Current Balance is 1000
+// 	E:\Practice>java ThreadSyn17
+// 	Enter amount to withdraw for Ram :-
+// 	Enter amount to withdraw for Shyam :-
+// 	4000
+// 	3000
+// 	InSufficent Balance
+// 	Ram Transaction successfully
+// 	Ram Current Balance is 1000
 
-	E:\Practice>
+// 	E:\Practice>
 	
-Output:- (When using Synchronized block)
+// Output:- (When using Synchronized block)
 
 
-	E:\Practice>java ThreadSyn17
-	Enter amount to withdraw for Ram :-
-	500
-	Ram Transaction successfully
-	Ram Current Balance is 4500
-	Enter amount to withdraw for Shyam :-
-	7000
-	InSufficent Balance
+// 	E:\Practice>java ThreadSyn17
+// 	Enter amount to withdraw for Ram :-
+// 	500
+// 	Ram Transaction successfully
+// 	Ram Current Balance is 4500
+// 	Enter amount to withdraw for Shyam :-
+// 	7000
+// 	InSufficent Balance
